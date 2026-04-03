@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "The Rain Song (Remaster)",
+  "base_artist": "Led Zeppelin",
+  "createdAt": "2026-04-03T07:11:39.013424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Rain Song - Remaster",
+      "artist": "LED ZEPPELIN",
+      "has_synced": true,
+      "path": "select/01_The_Rain_Song_-_Remaster_LED_ZEPPELIN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Rain Song (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/02_The_Rain_Song_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Rain Song  (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/03_The_Rain_Song_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Rain Song - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/04_The_Rain_Song_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Rain Song - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/05_The_Rain_Song_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Rain Song - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/06_The_Rain_Song_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Rain Song - Remaster - SpotubeDL.com",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/07_The_Rain_Song_-_Remaster_-_SpotubeDL.com_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Rain Song (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/08_The_Rain_Song_(Remaster)_Led_Zeppelin.lrc"
+    }
+  ]
+}
