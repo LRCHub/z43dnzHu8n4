@@ -1,0 +1,33 @@
+# Led Zeppelin – The Rain Song (Remaster)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:31.16] It is the springtime of my loving
+[00:36.41] The second season I am to know
+[00:43.57] You are the sunlight in my growing
+[00:49.18] So little warmth I've felt before.
+[00:55.91] It isn't hard to feel me glowing
+[01:01.37] I watched the fire that grew so low.
+[01:19.37] 
+[03:51.00] It is the summer of my smiles
+[03:56.15] Flee from me Keepers of the Gloom.
+[04:03.14] Speak to me only with your eyes
+[04:08.15] It is to you I give this tune.
+[04:14.87] Ain't so hard to recognize
+[04:20.37] These things are clear to all from time to time.
+[04:44.37] 
+[05:04.74] Talk Talk
+[05:13.37] I've felt the coldness of my winter
+[05:19.08] I never thought it would ever go.
+[05:24.68] I cursed the gloom that set upon us...
+[05:30.63] But I know that I love you so
+[05:45.13] 
+[05:48.43] These are the seasons of emotion
+[05:53.78] And like the winds they rise and fall
+[06:00.76] This is the wonder of devotion
+[06:05.52] I seek the torch we all must hold.
+[06:12.27] This is the mystery of the quotient
+[06:17.12] Upon us all, upon us all a little rain must fall...
+[06:24.36] It's just a little rain...
+```
